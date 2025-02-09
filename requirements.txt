@@ -1,2 +1,11 @@
-fastapi[standard]
+fastapi
 uvicorn
+pydantic-settings
+sqlalchemy
+celery
+redis
+langchain
+instructor
+pymupdf
+faiss-cpu
+openai
